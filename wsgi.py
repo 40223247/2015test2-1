@@ -93,7 +93,8 @@ class Hello(object):
     <h1>期末考練習1<br />
     <br />40223209<br />
     <br />王庭智<br />
-
+    <br />40223247<br />
+    <br />鄭宏詳<br />
 
     <a href="drawspur2">期末2nd協同齒輪嚙合</a>  <br />
 
